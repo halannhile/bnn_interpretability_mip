@@ -30,5 +30,5 @@ https://www.aimsciences.org/article/doi/10.3934/fods.2019001
 
 <a id="2">[2]</a> 
 Z.Liu and M.Barahona, "Graph-based data clustering via multiscale community detection"
-*Applied Network Science*, 2020 
+*Applied Network Science*, 3, 2020 
 https://doi.org/10.1007/s41109-019-0248-7
