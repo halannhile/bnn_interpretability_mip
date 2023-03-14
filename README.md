@@ -2,6 +2,9 @@
 
 Proving the interpretability of MIP's learned parameters for BNNs, on visual tasks (MNIST) and non-visual tasks (Flags, Ubuntu), using Continuous k-Nearest Neighbours (CkNN)
 
+* MIP: mixed-integer programming
+* BNNs: binary neural networks
+
 ## Methodology 
 
 * Obtain MIP's learned parameters for the weights of BNNs 
